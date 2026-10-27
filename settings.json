@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "vexsmp01.playserver.pro",
+    "port": 13517,
+    "version": "1.26.3",
     "try-creative": false
   },
   "position": {
